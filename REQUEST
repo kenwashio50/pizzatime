@@ -1,0 +1,7 @@
+URL = "https://cold-cell-f338.salvatorestaianoapple.workers.dev/order"
+HEADERS = {"Content-Type": "application/json", "Accept": "application/json"}
+
+{'place': 'Via Nicotera 15, Vico Equense', 'date': '04-09-1939', 'time': '09:45'}
+200 {"ok":true,"place":true,"date":true,"time":true}
+
+E' possibile sapere comunque la domanda/busta relativa?
